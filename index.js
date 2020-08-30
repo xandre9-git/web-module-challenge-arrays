@@ -189,21 +189,6 @@ console.log(filterByWord(originalFlavors, "Chocolate"))
 
 
 
-  
-
-
-
-// (vowels.includes(str[i]))
-/* var myName = "Zachary";
-var hits = [];
-for (var i = 0; i<text.length; i++){
-    if (text[i] === "Z"){
-        for(var j = i; j< (myName.length + i); j++)
-        hits.push(text[j]);
-    }
-} */
-
-
 
 
 /* 🧁🍦🍨 STRETCH 🍨🍦🍫*/ 
